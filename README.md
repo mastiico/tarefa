@@ -1,4 +1,4 @@
-# Tarefas - Fundamentos de Node.js
+# Tarefas -  Node.js
 
 Este repositório faz parte do curso de **Node.js** da Rocketseat.
 
